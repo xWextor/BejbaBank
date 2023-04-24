@@ -1,2 +1,3 @@
-1.0v
-1.1v
+1.0v - pierwsza wersja
+1.1v - dodano historię aktualizacji
+1.4v - dodano funkcję przelewów 
