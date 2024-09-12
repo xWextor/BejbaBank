@@ -1,3 +1,4 @@
-1.0v - pierwsza wersja
-1.1v - dodano historię aktualizacji
-1.4v - dodano funkcję przelewów 
+v1.0 - pierwsza wersja
+v1.1 - dodano historię aktualizacji
+v1.2 - usunięto problemy
+v1.3 - dodano funkcję przelewów 
